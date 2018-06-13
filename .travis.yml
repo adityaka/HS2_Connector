@@ -1,3 +1,2 @@
 language: python
-deploy:
-  - zip HS2-QueryClient.zip HS2-QueryClient/*
+deploy: zip HS2-QueryClient.zip HS2-QueryClient/*
